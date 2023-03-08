@@ -4,7 +4,9 @@
   "description": "Using Apollo to execute GraphQL queries",
   "author": "Hess <hessro@oregonstate.edu>",
   "dependencies": {
+    "@apollo/client": "^3.7.10",
     "@emotion/styled": "^11.10.5",
+    "graphql": "^16.6.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1"
